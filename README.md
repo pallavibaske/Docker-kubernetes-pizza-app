@@ -28,6 +28,28 @@ This project demonstrates the deployment of a Cloud Pizza application using Dock
 ## Architecture
 Docker → Kubernetes → Amazon EC2 → S3 → DynamoDB → Lambda → CloudWatch
 
+# Screenshots
+
+## Application Output
+
+![Application Output](screenshots/output.png)
+
+## Amazon S3 Bucket
+
+![Amazon S3 Bucket](screenshots/s3-bucket.png)
+
+## AWS Lambda Function
+
+![AWS Lambda Function](screenshots/lambda-function.png)
+
+## Amazon DynamoDB Table
+
+![Amazon DynamoDB Table](screenshots/dynamodb-table.png)
+
+## DynamoDB Order Data
+
+![DynamoDB Order Data](screenshots/dynamodb-order-data.png)
+
 ## Learning Outcomes
 - Docker containerization
 - Kubernetes deployment
